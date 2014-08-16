@@ -1,0 +1,7 @@
+E:\学习资料\作业\校园拍拍\代码\CampusAuctionSystem\CASys.Dal\bin\Debug\CASys.Dal.dll
+E:\学习资料\作业\校园拍拍\代码\CampusAuctionSystem\CASys.Dal\bin\Debug\CASys.Dal.pdb
+E:\学习资料\作业\校园拍拍\代码\CampusAuctionSystem\CASys.Dal\bin\Debug\CASys.Model.dll
+E:\学习资料\作业\校园拍拍\代码\CampusAuctionSystem\CASys.Dal\bin\Debug\CASys.Model.pdb
+E:\学习资料\作业\校园拍拍\代码\CampusAuctionSystem\CASys.Dal\obj\Debug\CASys.Dal.csprojResolveAssemblyReference.cache
+E:\学习资料\作业\校园拍拍\代码\CampusAuctionSystem\CASys.Dal\obj\Debug\CASys.Dal.dll
+E:\学习资料\作业\校园拍拍\代码\CampusAuctionSystem\CASys.Dal\obj\Debug\CASys.Dal.pdb

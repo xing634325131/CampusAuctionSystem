@@ -1,0 +1,79 @@
+﻿.registeDiv{
+    height:830px;
+    width:896px;
+    border:2px #ff6600 solid;
+    margin-top:-45px;
+    margin-bottom:20px;
+}
+.registeDivLabel {
+    font-size:28px;
+    color:#FF6600;
+    font-weight:bold;
+    margin:15px;
+    width:130px;
+    height:40px;
+    float:left;
+}
+.registerbottom {
+    clear:both;
+}
+.labeltext {
+    font-size:12px;
+}
+.msgclass {
+    color:blue;
+}
+.registerhr {
+    clear:both;
+    width:750px;
+    float:left;
+    margin-top:-1px;
+    border-top:1px solid #FF6600;
+}
+.registeLabel{
+    font-size:24px;
+    font-weight:bold;
+    display:block;
+    float:left;
+    margin-left:100px;
+    margin-top:40px;
+    margin-bottom:40px;
+}
+.formcontent {
+    clear:both;
+}
+.registeUl{
+    margin-left:210px;
+}
+.registeUl li {
+    list-style-type:none;
+    margin-top:30px;
+    text-align:left;
+    font-size:20px;
+}
+.checkLabel {
+    float:left;
+    margin-left:230px;
+    margin-top:30px;
+    font-size:20px;
+}
+.diva {
+    font-size:12px;
+    text-decoration:none;
+}
+.agreement {
+    text-decoration:none;
+}
+.registeButton {
+    clear:both;
+    float:left;
+    margin-left:350px;
+    padding-top:8px;
+    padding-bottom:8px;
+    padding-left:20px;
+    background-color:#FF6600;
+    padding-right:20px;
+    margin-top:40px;
+    color:#FFFFFF;
+    border-right:3px #FFFFFF solid;
+}

@@ -1,0 +1,79 @@
+﻿.ui-tabs-vertical {
+    width: 55em;
+    height:600px;
+}
+ .center {
+     width:900px;
+     border:solid 2px #FF6600;
+     margin-top:-45px;
+     margin-left:2px;
+     margin-right:2px;
+     margin-bottom:15px;
+     padding:0px;
+}
+ .help_ul li{
+     list-style-type:none;
+     font-size:20px;
+     margin-top:50px;
+     border:none;
+}
+.help_ul a {
+    text-decoration:none;
+}
+ .ui-tabs-vertical .ui-tabs-nav { 
+     float: left;     
+     width: 12em;
+}
+ .ui-tabs-vertical .ui-tabs-panel {
+     float: right;
+     width: 40em;
+}
+.help_ul a:link,visited,active,a:hover {
+    color:#ff9900;
+    border:none;
+}
+.titlelogo {
+    margin-top: 2px;
+    padding-top: 2px;
+}
+.title {
+    float: left;
+    font-size:20px;
+    margin-top:30px;
+    margin-bottom:20px;
+    color:#FF9900;
+}
+.helphr {
+    height:550px;
+    width:0px;
+    float:left;
+    color:#FF6600;
+    border-left:2px solid #FF6600;
+    margin-top:30px;
+}
+.txt_1 {
+    clear:both;
+    float:left;
+    font-size:18px;
+    text-align:left;
+    margin-top:20px;
+    color:red;
+    margin-right:10px;
+}
+.txt_2 {
+    clear: both;
+    float:left;
+    text-align:left;
+    margin-top:20px;
+    color:red;
+    margin-right:10px;
+}
+.txt_3 {
+    clear:both;
+    float:left;
+    text-align:left;
+    margin-top:10px;
+    margin-left:10px;
+    color:red;
+    margin-right:10px;
+}

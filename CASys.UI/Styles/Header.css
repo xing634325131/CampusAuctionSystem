@@ -1,0 +1,119 @@
+﻿*{
+	margin:0;
+	padding:0;	
+}
+.menuDiv a{
+	text-decoration:none;
+	color:white;
+}
+.headDiv {
+    margin:0 auto;
+    width:900px;
+    height:170px;
+    /*border:1px #ffd800 solid;*/
+    position:relative;
+}
+/*banner布局*/
+.bannerDiv{
+	width:900px;
+	height:110px;
+	margin:0 auto;
+	/*border:1px #00FF00 solid;*/
+}
+/*logo布局*/
+.logoImg{
+	width:120px;
+	height:60px;
+	/*border:1px #000000 solid;*/
+	margin-left:0px;
+	margin-top:-35px;
+	position:absolute;
+}
+.logoImg img{
+	margin-top:-3px;
+}
+/*搜索框*/
+.searchDiv{
+	width:400px;
+	height:40px;
+	margin-top:60px;
+	margin-left:498px;
+	background:#FF6600;
+	/*border:1px #000000 solid;*/
+    position:relative;
+}
+.searchDiv input{
+	width:300px;
+	height:30px;
+	top:5px;
+	margin-left:-88px;
+	border:none;
+    position:relative;
+}
+.searchDiv a{
+	margin-top:-30px;
+	margin-left:312px;
+	font-size:24px;
+	color:#FFFFFF;
+	font-weight:bold;
+	width:83px;
+	height:40px;
+	line-height:40px;
+	display:block;
+    text-decoration:none;
+	/*//border:1px #000000 solid;*/
+}
+/*登录模块*/
+.loginSpan{
+	height:20px;
+	/*//border:1px #003366 solid;*/
+	margin-top:-65px;
+	margin-left:722px;
+	font-size:12px;
+	line-height:20px;
+}
+.redLogo{
+	color:#FF0000;
+}
+.loginSpan ul li{
+	list-style-type:none;
+	float:left;
+	cursor:pointer;
+}
+#go_register {
+    text-decoration:none;
+}
+.loginSpan ul li a{
+	color:#0000FF;
+}
+/**/
+.menuDiv{
+	width:900px;
+	height:60px;
+	margin:-60px auto;
+	position:relative;
+	background:#FF6600;
+	/*border:1px #000000 solid;*/
+}
+.menuDiv ul{
+	width:620px;
+	height:60px;
+	/*//border:1px #003399 solid;*/
+	margin:0 auto;
+}
+.menuDiv ul li{
+	width:120px;
+	height:60px;
+	list-style-type:none;
+	float:left;
+	font-size:24px;
+	color:#FFFFFF;
+	font-weight:bold;
+	border-right:3px #FFFFFF solid;
+	line-height:60px;
+	text-align:center;
+	cursor:pointer;
+}
+#logout{
+	border-right:none;
+}

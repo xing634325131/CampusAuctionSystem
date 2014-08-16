@@ -1,0 +1,108 @@
+﻿.login_lgbox {
+    border: solid 5px #FF6600;
+    width:500px;
+    padding-bottom:5px;
+    padding-left:5px;
+    background-color:white;
+}
+.login_lgdiv {
+    margin-top:15px;
+    width:480px;
+    overflow:hidden;
+}
+.login_lgt {
+    text-align:right;
+    margin-top:5px;
+    width:80px;
+    float:left;
+    color:#565553;
+    padding-top:4px;
+    padding-left:0px;
+}
+.login_lgnp {
+    width:auto;
+    float:left;
+    margin-top:5px;
+}
+.login_lgcode {
+    width:auto;
+    padding-left:18px;
+    float:left;
+}
+.login_lgforgetpwd {
+    padding-left:300px;
+    font-size:8px;
+    padding-top:5px;
+}
+.login_lgpwd {
+    padding-left:80px;
+    width:auto;
+    float:left;
+}
+.login_lgautologin {
+    padding-left:240px;
+}
+.login_lgreset {
+    width:auto;
+    float:right;
+    font-size:8px;
+    padding-top:5px;
+}
+.login_lgbtn {
+    width:auto;
+    float:left;
+    padding-left:80px;
+}
+.login_lgcancelbtn {
+    padding-left:70px;
+    width:auto;
+    float:left;
+}
+.login_lgrt {
+    width:auto;
+    float:right;
+    padding-top:20px;
+    font-size:8px;
+}
+.login_lghr {
+    float:left;
+    width:480px;
+    margin-top:-1px;
+    border:1px solid #FF6600;
+}
+.login_lgtitle {
+    margin-top:10px;
+    color:#FF6600;
+    font-size:25px;
+    float:left;
+}
+.loginBtn {
+    padding:8px;
+    padding-left:20px;
+    padding-right:20px;
+    background-color:#FF6600;
+    font-size:14px;
+}
+.cancelLoginBtn {
+    padding:8px;
+    background-color:#FF6600;
+    font-size:14px;
+}
+.login_lgbox a:link,visited,active {
+ text-decoration: none;
+}
+.login_lgbox a:hover {
+ text-decoration:underline;
+}
+.msg {
+    color:red;
+    font-size:large;
+    padding-left:100px;
+}
+.imgclose {
+    float:right;
+    width:15px;
+    height:15px;
+    padding-right:5px;
+    padding-top:5px;
+}
